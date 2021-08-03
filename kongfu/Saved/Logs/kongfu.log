@@ -1146,3 +1146,199 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.03-14.25.33:359][812]LogHttp: Warning: 000001E5055DAB00: libcurl info message cache 6 (Closing connection 1)
 [2021.08.03-14.25.33:359][812]LogHttp: Warning: 000001E5055DAB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2021.08.03-14.25.33:359][812]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.03-14.31.46:842][744]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.03-14.31.56:036][259]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.03-14.31.56:836][305]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.03-14.32.15:495][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: request failed, libcurl error: 0 (No error)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e5329c3670 [can pipeline])
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 1 (Re-using existing connection! (#3) with proxy 127.0.0.1)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#3))
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 6 (Closing connection 3)
+[2021.08.03-14.32.33:182][301]LogHttp: Warning: 000001E50B958F00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.03-14.32.33:198][302]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.03-14.32.40:008][688]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.32.42:943][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.03-14.32.46:402][ 44]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.32.50:696][289]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.32.51:756][346]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.32.54:212][484]Cmd: DELETE
+[2021.08.03-14.32.54:212][484]Cmd: ACTOR DELETE
+[2021.08.03-14.32.54:225][484]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.08.03-14.32.54:234][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.03-14.32.54:236][484]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.08.03-14.32.56:286][607]Cmd: TRANSACTION UNDO
+[2021.08.03-14.32.56:286][607]LogEditorTransaction: Undo 删除Actor
+[2021.08.03-14.32.58:739][708]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.33.00:204][787]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.33.12:186][473]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.33.33:337][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.03-14.33.51:506][562]Cmd: DELETE
+[2021.08.03-14.33.51:506][562]Cmd: ACTOR DELETE
+[2021.08.03-14.33.52:292][607]Cmd: DELETE
+[2021.08.03-14.33.52:292][607]Cmd: ACTOR DELETE
+[2021.08.03-14.33.52:563][621]Cmd: DELETE
+[2021.08.03-14.33.52:563][621]Cmd: ACTOR DELETE
+[2021.08.03-14.33.52:741][631]Cmd: DELETE
+[2021.08.03-14.33.52:741][631]Cmd: ACTOR DELETE
+[2021.08.03-14.33.55:057][755]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.03-14.34.01:359][108]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (fight)
+[2021.08.03-14.34.02:292][161]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (fight)
+[2021.08.03-14.34.13:263][784]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.34.14:214][838]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.34.15:433][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.03-14.34.17:971][ 43]Cmd: DELETE
+[2021.08.03-14.34.17:971][ 43]Cmd: ACTOR DELETE
+[2021.08.03-14.34.17:974][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.03-14.34.17:980][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.03-14.34.17:982][ 43]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.08.03-14.34.27:852][627]LogActorFactory: Actor Factory created Cone
+[2021.08.03-14.34.29:036][691]LogActorFactory: Actor Factory created Cone
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: request failed, libcurl error: 0 (No error)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e5329c2c50 [can pipeline])
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 1 (Re-using existing connection! (#4) with proxy 127.0.0.1)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#4))
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 6 (Closing connection 4)
+[2021.08.03-14.35.33:236][191]LogHttp: Warning: 000001E50CA18800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.03-14.35.33:255][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.03-14.36.06:870][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.03-14.36.06:889][110]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMap_Auto14F77F3154EBCE9161497AEAEB8B399D6.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.08.03-14.36.06:891][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.026
+[2021.08.03-14.36.06:891][110]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: request failed, libcurl error: 0 (No error)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e5329c2860 [can pipeline])
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 1 (Re-using existing connection! (#5) with proxy 127.0.0.1)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#5))
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 6 (Closing connection 5)
+[2021.08.03-14.40.33:016][451]LogHttp: Warning: 000001E50BB31600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.03-14.40.33:034][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.03-14.41.52:371][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.03-14.41.52:387][583]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMapD83B37744E460C5439E2DF859115862D.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.08.03-14.41.52:396][583]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMap_BuiltDa9B1371EF4C0B1768DDD25D8BD1145443.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.08.03-14.41.52:410][583]AssetCheck: New page: 资产保存：多个资产
+[2021.08.03-14.41.52:410][583]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.08.03-14.41.52:410][583]LogContentValidation: Display: 正在验证World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.08.03-14.41.54:619][715]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.41.58:487][919]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.42.07:746][411]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.42.09:027][487]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.42.11:268][610]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.42.12:878][703]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.42.28:754][539]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.42.29:529][583]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.42.29:537][583]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2021.08.03-14.42.30:819][656]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.42.36:792][  3]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.42.38:026][ 72]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.42.54:761][932]LogSlate: Window '取色器' being destroyed
+[2021.08.03-14.43.13:262][954]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.43.13:292][954]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.08.03-14.43.22:841][514]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.43.23:888][571]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.43.25:128][641]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.08.03-14.43.27:401][754]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.08.03-14.43.29:429][871]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.43.30:997][962]Cmd: EDIT COPY
+[2021.08.03-14.43.31:256][977]Cmd: EDIT PASTE
+[2021.08.03-14.43.33:250][ 90]LogHttp: Warning: 000001E50C6F7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: request failed, libcurl error: 0 (No error)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e5329c21d0 [can pipeline])
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 1 (Re-using existing connection! (#6) with proxy 127.0.0.1)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#6))
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 6 (Closing connection 6)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: 000001E50C6F7900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.03-14.43.33:251][ 90]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.03-14.43.34:339][153]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2021.08.03-14.43.34:510][159]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.08.03-14.43.39:827][473]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_15)
+[2021.08.03-14.43.42:109][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.08.03-14.43.42:136][599]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMapCEAB37F84FF39A3343687AB682CF86FB.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.08.03-14.43.42:147][599]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMap_BuiltDa1C688AF24A706C1C23424999D36B0284.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.08.03-14.43.42:168][599]AssetCheck: New page: 资产保存：多个资产
+[2021.08.03-14.43.42:168][599]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.08.03-14.43.42:168][599]LogContentValidation: Display: 正在验证World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.08.03-14.43.43:819][686]LogTemp: Repeating last play command: 选中的视口
+[2021.08.03-14.43.43:832][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.03-14.43.43:838][686]PIE: New page: PIE会话：2DSideScrollerExampleMap（2021年8月4日 上午6:43:43）
+[2021.08.03-14.43.43:841][686]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.03-14.43.43:844][686]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.03-14.43.43:845][686]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.08.03-14.43.43:852][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006362s)
+[2021.08.03-14.43.43:855][686]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.08.03-14.43.43:856][686]LogPlayLevel: PIE: World Init took: (0.003905s)
+[2021.08.03-14.43.43:857][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.011731s)
+[2021.08.03-14.43.43:863][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.03-14.43.43:865][686]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.03-14.43.43:865][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.03-14.43.43:865][686]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.03-14.43.43:865][686]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.03-14.43.43:871][686]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.03-14.43.43:871][686]LogAudioMixer: Display: 1: FrontRight
+[2021.08.03-14.43.43:907][686]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2021.08.03-14.43.43:907][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.03-14.43.43:907][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.03-14.43.43:907][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.03-14.43.43:908][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.03-14.43.43:908][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.03-14.43.43:908][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.03-14.43.43:941][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.03-14.43.43:941][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.03-14.43.43:941][686]LogInit: FAudioDevice initialized.
+[2021.08.03-14.43.43:941][686]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2021.08.03-14.43.43:958][686]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.08.03-14.43.43:969][686]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2021.08.03-22.43.43
+[2021.08.03-14.43.43:974][686]LogWorld: Bringing up level for play took: 0.006579
+[2021.08.03-14.43.43:975][686]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.08.03-14.43.43:996][686]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.08.03-14.43.43:999][686]PIE: 登陆的服务器
+[2021.08.03-14.43.44:002][686]PIE: PIE总开始时间：0.175秒。
+[2021.08.03-14.45.47:416][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.03-14.45.47:416][ 77]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.08.03-14.45.47:417][ 77]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.03-14.45.47:417][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.03-14.45.47:432][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.03-14.45.47:458][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.03-14.45.47:463][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.03-14.45.47:464][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.03-14.45.47:466][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.03-14.45.47:503][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.08.03-14.45.47:561][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.08.03-14.45.50:231][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.03-14.45.50:257][223]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMap04A17C2342D5D3D0848CEBA96F85C963.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.08.03-14.45.50:268][223]LogSavePackage: Moving '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Saved/2DSideScrollerExampleMap_BuiltDaFCD7E4E443D2A7E5D8C20B994626E146.tmp' to '../../../../../../Users/jpkon/Documents/GitHub/kongfudream/kongfu/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.08.03-14.45.50:290][223]AssetCheck: New page: 资产保存：多个资产
+[2021.08.03-14.45.50:290][223]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.08.03-14.45.50:290][223]LogContentValidation: Display: 正在验证World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: request failed, libcurl error: 0 (No error)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e5329c1de0 [can pipeline])
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 1 (Re-using existing connection! (#7) with proxy 127.0.0.1)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10809 (#7))
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 6 (Closing connection 7)
+[2021.08.03-14.46.33:275][643]LogHttp: Warning: 000001E50C9EF900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.03-14.46.33:291][644]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CAA6CF6-4583-354C-7FFE-9DAAC08BD77F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=d85327ad4d36a500f7237eaa92ffc445%7Cf0fe590b1e9542898288c9a0383cadca%7Cdf9d9a01-7d56-4e51-a8fd-67b36e61933b&AppEnvironment=datacollector-binary&UploadType=eteventstream
